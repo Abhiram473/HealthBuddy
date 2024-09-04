@@ -1,0 +1,350 @@
+Disease,Fever,Cough,Fatigue,Difficulty breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable,Medical Advice
+Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive,"Rest, hydrate, and consider over-the-counter medication for symptoms."
+Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,"Rest, stay hydrated, and use saline nasal sprays for congestion."
+Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,Moisturize regularly and use topical corticosteroids for flare-ups.
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive,Moisturize regularly and use topical corticosteroids for flare-ups.
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,"Rest, hydrate, and consider over-the-counter medication for symptoms."
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,"Rest, hydrate, and consider over-the-counter medication for symptoms."
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,Take antithyroid medications and monitor thyroid levels regularly.
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,Take antithyroid medications and monitor thyroid levels regularly.
+Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative,Avoid allergens and use antihistamines or nasal sprays.
+Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative,Practice relaxation techniques and consider cognitive-behavioral therapy.
+Common Cold,No,No,No,No,29,Female,Low,Normal,Negative,"Rest, stay hydrated, and use saline nasal sprays for congestion."
+Diabetes,No,No,No,No,29,Male,Low,Normal,Negative,"Monitor blood sugar, maintain a healthy diet, and take medications as prescribed."
+Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative,Stay hydrated and avoid solid foods until symptoms improve.
+Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative,Follow a low-fat diet and avoid alcohol to prevent flare-ups.
+Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative,Take anti-inflammatory medications and engage in gentle exercises.
+Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive,Seek therapy and consider medications under medical supervision.
+Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Follow medical advice on treatment options like surgery or chemotherapy.
+Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Seek immediate medical attention and follow a rehabilitation plan.
+Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive,Drink plenty of water and take prescribed antibiotics.
+Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,"Rest, stay hydrated, and avoid pain relievers like aspirin."
+Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,"Rest, stay hydrated, and avoid pain relievers like aspirin."
+Eczema,No,Yes,Yes,No,30,Male,High,High,Negative,Moisturize regularly and use topical corticosteroids for flare-ups.
+Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative,Stay hydrated and avoid solid foods until symptoms improve.
+Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative,Avoid alcohol and follow a liver-friendly diet.
+Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative,Consult with a specialist for treatment options like surgery or immunotherapy.
+Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative,Avoid triggers and use prescribed medications for pain relief.
+Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Avoid triggers and use prescribed medications for pain relief.
+Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative,Engage in physical therapy and manage symptoms with medications.
+Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative,Use saline nasal spray and steam inhalation to relieve symptoms.
+Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative,Follow a prescribed diet and take anti-inflammatory medications.
+Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Follow a prescribed diet and take anti-inflammatory medications.
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive,Take mood stabilizers and engage in therapy as recommended.
+Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive,"Rest, stay hydrated, and use a humidifier to ease breathing."
+Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,"Rest, stay hydrated, and use a humidifier to ease breathing."
+Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,"Rest, stay hydrated, and use a humidifier to ease breathing."
+Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive,Engage in physical therapy and use assistive devices as needed.
+Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive,"Follow medical advice on surgery, chemotherapy, or radiation."
+Eczema,Yes,No,No,No,30,Male,High,High,Positive,Moisturize regularly and use topical corticosteroids for flare-ups.
+Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive,"Manage blood pressure with medication, diet, and exercise."
+Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive,"Rest, hydrate, and consider over-the-counter medication for symptoms."
+Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,"Rest, hydrate, and consider over-the-counter medication for symptoms."
+Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive,Use disease-modifying therapies and engage in physical therapy.
+Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive,Follow rehabilitation and take prescribed medications.
+Urinary Tract Infection (UTI),Yes,No,No,No,30,Female,Normal,Normal,Positive,Drink plenty of water and take prescribed antibiotics.
+Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative,Use inhalers as prescribed and avoid triggers.
+Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,Negative,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Common Cold,Yes,No,Yes,Yes,31,Male,High,High,Positive,"Rest, stay hydrated, and use saline nasal sprays for congestion."
+Migraine,Yes,No,No,No,31,Female,Normal,Normal,Positive,"Rest, hydrate, and complete any prescribed antibiotic course."
+Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,Positive,"Rest, hydrate, and complete any prescribed antibiotic course."
+Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,Negative,Avoid allergens and use antihistamines or nasal sprays.
+Asthma,No,Yes,Yes,Yes,35,Female,Normal,High,Negative,Use inhalers as prescribed and avoid triggers.
+Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Use inhalers as prescribed and avoid triggers.
+Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,Use inhalers as prescribed and avoid triggers.
+Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,Use inhalers as prescribed and avoid triggers.
+Atherosclerosis,No,No,Yes,No,35,Male,Normal,Normal,Negative,"Manage cholesterol levels with diet, exercise, and medications."
+Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Negative,"Use inhalers, avoid smoking, and practice breathing exercises."
+Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,Negative,"Rest, stay hydrated, and use saline nasal sprays for congestion."
+Eczema,No,Yes,No,No,35,Male,High,Normal,Negative,Moisturize regularly and use topical corticosteroids for flare-ups.
+Epilepsy,No,No,Yes,No,35,Male,High,High,Negative,Take anti-seizure medications and avoid triggers.
+Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,Negative,Monitor blood pressure regularly and maintain a healthy lifestyle.
+Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative,Take antithyroid medications and monitor thyroid levels regularly.
+Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,Negative,Engage in cognitive-behavioral therapy and consider medications.
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,"Rest, hydrate, and complete any prescribed antibiotic course."
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,"Rest, hydrate, and complete any prescribed antibiotic course."
+Psoriasis,Yes,No,No,No,35,Female,Normal,Low,Negative,Moisturize regularly and use prescribed topical treatments.
+Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,Negative,Moisturize regularly and use prescribed topical treatments.
+Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,Rest and manage symptoms; vaccination is key to prevention.
+Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,Rest and manage symptoms; vaccination is key to prevention.
+Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male,High,High,Negative,Drink plenty of water and take prescribed antibiotics.
+Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Cirrhosis,No,No,Yes,No,35,Female,Normal,High,Positive,"Avoid alcohol, follow a liver-friendly diet, and take medications as prescribed."
+Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,Positive,"Keep eyes clean, avoid touching them, and use prescribed eye drops."
+Depression,No,No,Yes,No,35,Female,Normal,High,Positive,Seek therapy and consider medications under medical supervision.
+Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,Positive,Stay hydrated and avoid solid foods until symptoms improve.
+Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,Take antithyroid medications and monitor thyroid levels regularly.
+Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,Take antithyroid medications and monitor thyroid levels regularly.
+Kidney Cancer,No,No,Yes,No,35,Male,High,High,Positive,Consult with a specialist for treatment options like surgery or immunotherapy.
+Liver Cancer,No,No,Yes,No,35,Female,High,High,Positive,Follow medical advice on treatment options like surgery or chemotherapy.
+Liver Disease,No,No,Yes,No,35,Male,High,High,Positive,"Limit alcohol intake, maintain a healthy diet, exercise regularly, and get vaccinated against hepatitis."
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,Take antimalarial medications and use mosquito prevention methods.
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,Take antimalarial medications and use mosquito prevention methods.
+Migraine,No,Yes,Yes,No,35,Male,High,High,Positive,Avoid triggers and use prescribed medications for pain relief.
+Migraine,Yes,No,No,No,35,Male,High,High,Positive,Avoid triggers and use prescribed medications for pain relief.
+Pancreatitis,No,No,Yes,No,35,Male,Normal,High,Positive,Follow a low-fat diet and avoid alcohol to prevent flare-ups.
+Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,Positive,Take anti-inflammatory medications and engage in gentle exercises.
+Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,Positive,Take anti-inflammatory medications and engage in gentle exercises.
+Spina Bifida,No,No,Yes,No,35,Female,Normal,Normal,Positive,"Follow a care plan including surgery, physical therapy, and mobility aids."
+Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,Positive,Follow a prescribed diet and take anti-inflammatory medications.
+Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,Positive,Follow a prescribed diet and take anti-inflammatory medications.
+Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,Positive,Drink plenty of water and take prescribed antibiotics.
+Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,Negative,Avoid allergens and use antihistamines or nasal sprays.
+Depression,No,No,No,No,38,Female,Normal,High,Negative,Seek therapy and consider medications under medical supervision.
+Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Negative,Stay hydrated and avoid solid foods until symptoms improve.
+Influenza,No,No,No,No,38,Male,Normal,Normal,Negative,"Rest, hydrate, and consider over-the-counter medication for symptoms."
+Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,Negative,"Manage with diet, medications, and regular monitoring by a healthcare provider."
+Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,Negative,Follow medical advice on treatment options like surgery or chemotherapy.
+Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,Negative,"Limit alcohol intake, maintain a healthy diet, exercise regularly, and get vaccinated against hepatitis."
+Osteoporosis,No,Yes,No,No,38,Female,Normal,High,Negative,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Stroke,Yes,Yes,No,No,38,Female,High,Normal,Negative,Seek immediate medical attention and follow a rehabilitation plan.
+Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,Positive,Practice relaxation techniques and consider cognitive-behavioral therapy.
+Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,Positive,"Monitor blood sugar, maintain a healthy diet, and take medications as prescribed."
+Migraine,Yes,Yes,No,No,38,Male,High,High,Positive,Avoid triggers and use prescribed medications for pain relief.
+Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,Positive,Use pain relief medications and engage in low-impact exercises.
+Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Positive,"Rest, hydrate, and complete any prescribed antibiotic course."
+Klinefelter Syndrome,No,No,Yes,No,39,Female,Normal,Normal,Positive,Testosterone replacement therapy helps manage Klinefelter Syndrome by promoting typical male development.
+Acne,No,No,Yes,No,40,Male,Normal,Normal,Negative,Keep skin clean and avoid pore-clogging products to help prevent acne.
+Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,Negative,Early detection through regular check-ups and imaging is key to managing brain tumors.
+Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,Negative,"Rest, stay hydrated, and use a humidifier to ease breathing."
+Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,Negative,Follow a treatment plan including airway clearance and nutritional support.
+Diabetes,Yes,No,No,No,40,Female,High,High,Negative,"Monitor blood sugar, maintain a healthy diet, and take medications as prescribed."
+Glaucoma,No,No,Yes,No,40,Male,High,Normal,Negative,Use prescribed eye drops to lower eye pressure and prevent vision loss.
+Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,Negative,Use pain relief medications and engage in low-impact exercises.
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Seek immediate medical attention if exposed and follow post-exposure treatment.
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Seek immediate medical attention if exposed and follow post-exposure treatment.
+Asthma,Yes,No,Yes,No,40,Male,Low,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Asthma,No,No,Yes,Yes,40,Male,High,High,Positive,Use inhalers as prescribed and avoid triggers.
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,Use inhalers as prescribed and avoid triggers.
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,Use inhalers as prescribed and avoid triggers.
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,"Rest, hydrate, and avoid scratching; vaccination is key for prevention."
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,"Rest, hydrate, and avoid scratching; vaccination is key for prevention."
+Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,Positive,"Manage with medications, diet, and regular exercise."
+"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,Positive,Seek professional help and follow a treatment plan.
+Fibromyalgia,No,No,Yes,No,40,Female,High,High,Positive,Manage pain with medications and engage in gentle exercises.
+Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,Positive,Stay hydrated and avoid solid foods until symptoms improve.
+Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,Positive,Avoid injury and follow a treatment plan with clotting factor replacements.
+Hyperthyroidism,No,No,Yes,No,40,Male,High,High,Positive,Take antithyroid medications and monitor thyroid levels regularly.
+Hypoglycemia,No,No,Yes,No,40,Female,High,High,Positive,Monitor blood sugar and carry fast-acting glucose for emergencies.
+Lymphoma,No,Yes,No,No,40,Female,Normal,High,Positive,"Follow treatment options including chemotherapy, radiation, or stem cell transplant."
+Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,Positive,"Rest, hydrate, and complete any prescribed antibiotic course."
+Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,Positive,Moisturize regularly and use prescribed topical treatments.
+Psoriasis,Yes,No,No,No,40,Male,High,Normal,Positive,Moisturize regularly and use prescribed topical treatments.
+Psoriasis,No,Yes,No,No,40,Female,Normal,High,Positive,Moisturize regularly and use prescribed topical treatments.
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,Complete the full course of prescribed antibiotics to effectively treat tuberculosis.
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,Complete the full course of prescribed antibiotics to effectively treat tuberculosis.
+Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,Negative,Practice relaxation techniques and consider cognitive-behavioral therapy.
+Common Cold,Yes,Yes,No,No,42,Female,High,High,Negative,"Rest, stay hydrated, and use saline nasal sprays for congestion."
+Depression,Yes,No,No,Yes,42,Male,High,Normal,Negative,Seek therapy and consider medications under medical supervision.
+Influenza,No,Yes,No,No,42,Female,Normal,High,Negative,"Rest, hydrate, and consider over-the-counter medication for symptoms."
+Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,Negative,Consult with a specialist for treatment options like surgery or immunotherapy.
+Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Follow medical advice on treatment options like surgery or chemotherapy.
+Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,Negative,"Limit alcohol intake, maintain a healthy diet, exercise regularly, and get vaccinated against hepatitis."
+Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,"Follow treatment plans including surgery, radiation, or chemotherapy."
+Migraine,Yes,Yes,Yes,No,42,Male,High,High,Negative,Avoid triggers and use prescribed medications for pain relief.
+Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,Negative,Use pain relief medications and engage in low-impact exercises.
+Stroke,Yes,No,Yes,No,42,Male,Normal,Low,Negative,Seek immediate medical attention and follow a rehabilitation plan.
+Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,Negative,Drink plenty of water and take prescribed antibiotics.
+Diabetes,Yes,Yes,Yes,No,42,Male,High,Normal,Positive,"Monitor blood sugar, maintain a healthy diet, and take medications as prescribed."
+Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,Take antithyroid medications and monitor thyroid levels regularly.
+Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,Take antithyroid medications and monitor thyroid levels regularly.
+Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,Positive,"Manage with diet, medications, and regular monitoring by a healthcare provider."
+Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,Positive,"Rest, hydrate, and complete any prescribed antibiotic course."
+Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,Negative,Avoid allergens and use antihistamines or nasal sprays.
+Autism Spectrum Disorder (ASD),No,No,Yes,No,45,Male,Normal,Normal,Negative,Engage in behavioral therapy and support services.
+Crohn's Disease,Yes,No,Yes,No,45,Male,High,Normal,Negative,Follow a prescribed diet and take medications to reduce inflammation.
+Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,Avoid alcohol and follow a liver-friendly diet.
+Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,Avoid alcohol and follow a liver-friendly diet.
+Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,Negative,Monitor blood sugar and adjust insulin or medication doses as needed.
+Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Consult with a specialist for treatment options like surgery or immunotherapy.
+Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,Negative,"Manage with diet, medications, and regular monitoring by a healthcare provider."
+Melanoma,Yes,No,Yes,No,45,Male,High,Normal,Negative,Follow a treatment plan including surgery and regular skin checks.
+Migraine,No,No,No,No,45,Female,Low,Normal,Negative,Avoid triggers and use prescribed medications for pain relief.
+Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,Negative,Follow treatment recommendations including surgery or chemotherapy.
+Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Follow a low-fat diet and avoid alcohol to prevent flare-ups.
+Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,Negative,Take anti-inflammatory medications and engage in gentle exercises.
+Stroke,No,No,Yes,No,45,Male,Normal,Normal,Negative,Seek immediate medical attention and follow a rehabilitation plan.
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,Engage in hormone therapy and monitor for associated health issues.
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,Engage in hormone therapy and monitor for associated health issues.
+Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,Negative,Drink plenty of water and take prescribed antibiotics.
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,"Rest, hydrate, and avoid mosquito bites to prevent infection."
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,"Rest, hydrate, and avoid mosquito bites to prevent infection."
+Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Avoid allergens and use antihistamines or nasal sprays.
+Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Practice relaxation techniques and consider cognitive-behavioral therapy.
+Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,Use inhalers as prescribed and avoid triggers.
+Cataracts,No,No,Yes,No,45,Female,Normal,High,Positive,Monitor vision and consider surgery if vision impairment occurs.
+Crohn's Disease,No,No,Yes,No,45,Female,High,High,Positive,Follow a prescribed diet and take medications to reduce inflammation.
+Crohn's Disease,Yes,Yes,Yes,No,45,Female,High,High,Positive,Follow a prescribed diet and take medications to reduce inflammation.
+Depression,No,No,Yes,No,45,Female,High,High,Positive,Seek therapy and consider medications under medical supervision.
+Diabetes,Yes,No,Yes,No,45,Female,High,High,Positive,"Monitor blood sugar, maintain a healthy diet, and take medications as prescribed."
+Diabetes,No,Yes,Yes,No,45,Male,Normal,High,Positive,"Monitor blood sugar, maintain a healthy diet, and take medications as prescribed."
+Hypertension,Yes,No,Yes,No,45,Male,Normal,High,Positive,Monitor blood pressure regularly and maintain a healthy lifestyle.
+Hypothyroidism,No,No,Yes,No,45,Female,High,High,Positive,Take antithyroid medications and monitor thyroid levels regularly.
+Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,"Limit alcohol intake, maintain a healthy diet, exercise regularly, and get vaccinated against hepatitis."
+Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,Use disease-modifying therapies and engage in physical therapy.
+Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,Use disease-modifying therapies and engage in physical therapy.
+Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,Positive,Use pain relief medications and engage in low-impact exercises.
+Osteoporosis,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female,High,High,Positive,Follow your healthcare provider's prescribed treatment regimen to effectively manage Pneumocystis Pneumonia (PCP).
+Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,Positive,"Rest, hydrate, and complete any prescribed antibiotic course."
+Scoliosis,No,No,No,No,45,Female,High,High,Positive,Regular monitoring and early intervention can help manage and treat scoliosis effectively.
+Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,Positive,Regular medical check-ups and hydration can help manage symptoms of sickle cell anemia.
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Seek immediate medical treatment and ensure vaccination is up to date.
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Seek immediate medical treatment and ensure vaccination is up to date.
+Hypertension,No,No,No,No,48,Female,Low,High,Negative,Monitor blood pressure regularly and maintain a healthy lifestyle.
+Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,Take antithyroid medications and monitor thyroid levels regularly.
+Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,Take antithyroid medications and monitor thyroid levels regularly.
+Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,Negative,Avoid allergens and use antihistamines or nasal sprays.
+Anemia,No,No,Yes,No,50,Male,Normal,Normal,Negative,Eat iron-rich foods and consider supplements if advised by your healthcare provider to manage anemia.
+Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,Negative,Practice relaxation techniques and consider cognitive-behavioral therapy.
+Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,Ensure proper hydration and seek medical treatment immediately if you suspect cholera.
+Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,Ensure proper hydration and seek medical treatment immediately if you suspect cholera.
+Crohn's Disease,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Follow a prescribed diet and take medications to reduce inflammation.
+Crohn's Disease,No,No,Yes,No,50,Male,Normal,High,Negative,Follow a prescribed diet and take medications to reduce inflammation.
+Depression,No,Yes,Yes,No,50,Female,Low,Low,Negative,Seek therapy and consider medications under medical supervision.
+Diabetes,No,Yes,No,No,50,Male,Normal,High,Negative,"Monitor blood sugar, maintain a healthy diet, and take medications as prescribed."
+Endometriosis,Yes,No,No,No,50,Male,High,Normal,Negative,Manage pain with medications and consider surgical options if necessary.
+Hypertension,No,Yes,No,No,50,Female,Normal,Low,Negative,Monitor blood pressure regularly and maintain a healthy lifestyle.
+Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Take antithyroid medications and monitor thyroid levels regularly.
+Kidney Cancer,No,Yes,No,No,50,Male,Low,High,Negative,Consult with a specialist for treatment options like surgery or immunotherapy.
+Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,Negative,"Manage with diet, medications, and regular monitoring by a healthcare provider."
+Pancreatitis,No,Yes,No,No,50,Male,Low,High,Negative,Follow a low-fat diet and avoid alcohol to prevent flare-ups.
+Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,Negative,Take anti-inflammatory medications and engage in gentle exercises.
+Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative,Seek immediate medical attention for infection signs and follow a treatment plan.
+Sleep Apnea,Yes,No,Yes,Yes,50,Male,High,High,Negative,Use CPAP therapy and maintain a healthy weight.
+Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,Negative,Drink plenty of water and take prescribed antibiotics.
+Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,Positive,Use inhalers as prescribed and avoid triggers.
+Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,Positive,"Rest, stay hydrated, and use a humidifier to ease breathing."
+Down Syndrome,No,No,Yes,No,50,Female,High,High,Positive,Follow a care plan with regular medical check-ups and support services.
+Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,Seek immediate medical care and follow isolation protocols to prevent spread.
+Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,Seek immediate medical care and follow isolation protocols to prevent spread.
+Eczema,No,Yes,No,No,50,Female,High,High,Positive,Moisturize regularly and use topical corticosteroids for flare-ups.
+Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,Positive,Stay hydrated and avoid solid foods until symptoms improve.
+Klinefelter Syndrome,No,No,Yes,No,50,Female,Normal,Normal,Positive,Testosterone replacement therapy helps manage Klinefelter Syndrome by promoting typical male development.
+Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,Positive,Follow medical advice on treatment options like surgery or chemotherapy.
+Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,Take antibiotics as prescribed and monitor for symptoms of ongoing infection.
+Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,Take antibiotics as prescribed and monitor for symptoms of ongoing infection.
+Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,Positive,Follow a specialized treatment plan including surgery or chemotherapy.
+Pneumothorax,No,No,Yes,Yes,50,Female,High,High,Positive,Seek immediate medical care for chest pain and breathing difficulties.
+Stroke,No,Yes,Yes,Yes,50,Male,High,High,Positive,Seek immediate medical attention and follow a rehabilitation plan.
+Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,Positive,Follow a prescribed diet and take anti-inflammatory medications.
+Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative,Monitor blood pressure regularly and maintain a healthy lifestyle.
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,Use disease-modifying therapies and engage in physical therapy.
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,Use disease-modifying therapies and engage in physical therapy.
+Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative,Seek immediate medical attention for sudden abdominal pain.
+Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative,"Rest, stay hydrated, and use a humidifier to ease breathing."
+Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative,"Rest, stay hydrated, and use a humidifier to ease breathing."
+Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative,"Rest, stay hydrated, and use saline nasal sprays for congestion."
+Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative,"Monitor blood sugar, maintain a healthy diet, and take medications as prescribed."
+Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative,Follow treatment plans including surgery or chemotherapy.
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,Take antiretroviral medications as prescribed and monitor health regularly.
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,Take antiretroviral medications as prescribed and monitor health regularly.
+Hypertension,No,Yes,No,No,55,Female,Normal,Low,Negative,Monitor blood pressure regularly and maintain a healthy lifestyle.
+Liver Disease,No,Yes,Yes,No,55,Male,High,Low,Negative,"Limit alcohol intake, maintain a healthy diet, exercise regularly, and get vaccinated against hepatitis."
+Marfan Syndrome,No,No,Yes,No,55,Male,High,High,Negative,Engage in regular check-ups and avoid strenuous activities.
+Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,Negative,Avoid triggers and use prescribed medications for pain relief.
+Osteoporosis,No,No,Yes,No,55,Male,High,Normal,Negative,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,Take medications to manage symptoms and engage in physical therapy.
+Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,Take medications to manage symptoms and engage in physical therapy.
+Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,Positive,Practice relaxation techniques and consider cognitive-behavioral therapy.
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,"Manage with medications, diet, and regular exercise."
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,"Manage with medications, diet, and regular exercise."
+Hemorrhoids,No,No,No,No,55,Female,High,High,Positive,Increase fiber intake and stay hydrated to help prevent and manage hemorrhoids.
+Hypertension,Yes,No,Yes,No,55,Male,High,Normal,Positive,Monitor blood pressure regularly and maintain a healthy lifestyle.
+Hypothyroidism,No,No,Yes,No,55,Female,High,High,Positive,Take antithyroid medications and monitor thyroid levels regularly.
+Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,Positive,Use pain relief medications and engage in low-impact exercises.
+Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,Positive,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,Positive,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,Female,Normal,Normal,Positive,"Manage with diet, exercise, and prescribed medications."
+Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female,High,High,Positive,Take medications to manage symptoms and avoid triggers.
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Take prescribed antibiotics and maintain hydration.
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Take prescribed antibiotics and maintain hydration.
+Influenza,Yes,Yes,Yes,Yes,56,Male,High,High,Positive,"Rest, hydrate, and consider over-the-counter medication for symptoms."
+Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,Negative,"Rest, hydrate, and complete any prescribed antibiotic course."
+Breast Cancer,No,No,Yes,No,60,Male,High,High,Negative,Regular screenings and self-exams can aid in early detection of breast cancer.
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,"Manage with medications, diet, and regular exercise."
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,"Manage with medications, diet, and regular exercise."
+Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative,Take antithyroid medications and monitor thyroid levels regularly.
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,"Rest, hydrate, and monitor for complications; vaccination is key to prevention."
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,"Rest, hydrate, and monitor for complications; vaccination is key to prevention."
+Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative,Use pain relief medications and engage in low-impact exercises.
+Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative,Follow a treatment plan with antibiotics or surgery as needed.
+Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative,Vaccination is key for prevention; seek medical care if symptoms appear.
+Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,Use inhalers as prescribed and avoid triggers.
+Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,Positive,Follow a kidney-friendly diet and take prescribed medications.
+Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,Positive,Avoid injury and follow a treatment plan with clotting factor replacements.
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,"Avoid alcohol, follow a liver-friendly diet, and take antiviral medications."
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,"Avoid alcohol, follow a liver-friendly diet, and take antiviral medications."
+Hypertension,No,No,Yes,No,60,Female,High,Normal,Positive,Monitor blood pressure regularly and maintain a healthy lifestyle.
+Hypertension,Yes,No,Yes,No,60,Male,High,Normal,Positive,Monitor blood pressure regularly and maintain a healthy lifestyle.
+Hypertension,No,No,No,No,60,Female,High,High,Positive,Monitor blood pressure regularly and maintain a healthy lifestyle.
+Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Consult with a specialist for treatment options like surgery or immunotherapy.
+Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,"Manage with diet, medications, and regular monitoring by a healthcare provider."
+Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,Positive,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Pancreatitis,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Follow a low-fat diet and avoid alcohol to prevent flare-ups.
+Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,Take medications to manage symptoms and engage in physical therapy.
+Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,Take medications to manage symptoms and engage in physical therapy.
+Prader-Willi Syndrome,No,No,Yes,No,60,Female,Normal,Normal,Positive,Engage in dietary management and behavioral therapy.
+Rheumatoid Arthritis,No,No,Yes,No,60,Female,High,High,Positive,Take anti-inflammatory medications and engage in gentle exercises.
+Thyroid Cancer,No,No,Yes,No,60,Female,High,High,Positive,Follow treatment options including surgery and radioactive iodine therapy.
+Tuberculosis,Yes,Yes,Yes,No,60,Female,High,High,Positive,Complete the full course of prescribed antibiotics to effectively treat tuberculosis.
+Bladder Cancer,No,No,Yes,No,65,Male,Normal,Normal,Negative,"Follow medical advice on surgery, chemotherapy, or immunotherapy."
+Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative,"Monitor blood sugar, maintain a healthy diet, and take medications as prescribed."
+Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative,Take prescribed antibiotics and use warm compresses for pain relief.
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,Seek immediate medical attention and follow a rehabilitation plan.
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,Seek immediate medical attention and follow a rehabilitation plan.
+Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative,Engage in behavioral therapy and take medications if necessary.
+Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male,High,Normal,Negative,Drink plenty of water and take prescribed antibiotics.
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,Follow a care plan with medications and cognitive therapies.
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,Follow a care plan with medications and cognitive therapies.
+Alzheimer's Disease,No,No,Yes,No,65,Female,High,High,Positive,Follow a care plan with medications and cognitive therapies.
+Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive,"Rest, stay hydrated, and use a humidifier to ease breathing."
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,Quit smoking and follow prescribed treatments to manage Chronic Obstructive Pulmonary Disease (COPD) effectively.
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,Quit smoking and follow prescribed treatments to manage Chronic Obstructive Pulmonary Disease (COPD) effectively.
+Dementia,No,No,Yes,No,65,Female,High,High,Positive,Follow a care plan with cognitive support and medications as prescribed.
+Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive,"Monitor blood sugar, maintain a healthy diet, and take medications as prescribed."
+Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive,Follow a high-fiber diet and take prescribed antibiotics if needed.
+Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,Follow medical advice on treatment options like surgery or chemotherapy.
+Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,"Follow treatment plans including surgery, radiation, or chemotherapy."
+Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive,"Follow treatment plans including surgery, radiation, or chemotherapy."
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,"Rest, hydrate, and use cold compresses for swollen glands; vaccination is key to prevention."
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,"Rest, hydrate, and use cold compresses for swollen glands; vaccination is key to prevention."
+Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive,Seek immediate medical attention and follow a rehabilitation plan.
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Follow a care plan with medications and cognitive therapies.
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Follow a care plan with medications and cognitive therapies.
+Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative,Seek medical care for gallbladder pain and follow a low-fat diet.
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,Quit smoking and follow prescribed treatments to manage Chronic Obstructive Pulmonary Disease (COPD) effectively.
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,Quit smoking and follow prescribed treatments to manage Chronic Obstructive Pulmonary Disease (COPD) effectively.
+Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative,"Take calcium and vitamin D supplements, and engage in weight-bearing exercises."
+Parkinson's Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative,Take medications to manage symptoms and engage in physical therapy.
+Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative,"Follow treatment options including surgery, radiation, or hormone therapy."
+Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative,Take antipsychotic medications and engage in therapy as recommended.
+Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive,"Avoid high-purine foods, stay hydrated, and take medications for flare-ups."
+Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive,Avoid triggers and use prescribed medications for pain relief.
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Seek immediate medical attention and follow a rehabilitation plan.
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Seek immediate medical attention and follow a rehabilitation plan.
+Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive,Follow treatment options including surgery and regular check-ups.
+Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive,"Rest, stay hydrated, and use pain relievers or antibiotics as prescribed."
+Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive,Engage in early intervention programs and monitor for associated health issues.
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,Seek immediate medical attention and follow a rehabilitation plan.
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,Seek immediate medical attention and follow a rehabilitation plan.
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,Seek immediate medical attention and follow a rehabilitation plan.
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,Seek immediate medical attention and follow a rehabilitation plan.
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Seek immediate medical attention and follow a rehabilitation plan.
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Seek immediate medical attention and follow a rehabilitation plan.
